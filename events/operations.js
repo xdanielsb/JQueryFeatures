@@ -19,4 +19,7 @@ $(document).ready(function(){
       alert("hello");
   });
 
+  // events  onmouseenter click doubleclick hove release....
+  // keypress keydown keyup
+
 });
